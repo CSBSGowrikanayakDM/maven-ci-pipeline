@@ -1,1 +1,1 @@
-# -maven-ci-pipeline
+# maven-ci-pipeline
